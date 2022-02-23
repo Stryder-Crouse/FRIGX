@@ -1,0 +1,121 @@
+﻿  pch.cpp
+  char1.cpp
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(58,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(59,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(59,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(64,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(65,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(65,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(276,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(276,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(303,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(303,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(418,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(422,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(530,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char1.cpp(534,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  char4.cpp
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(37,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(38,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(38,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(43,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(44,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(44,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(146,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(146,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(173,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\char4.cpp(173,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Character.cpp
+  Final Project.cpp
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(519,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(519,159): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(529,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(529,160): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(658,162): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(666,167): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(732,53): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(733,53): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(754,54): warning C4244: 'argument': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(754,42): warning C4244: 'argument': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(774,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(775,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(797,55): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(798,55): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(826,52): warning C4244: 'argument': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(826,42): warning C4244: 'argument': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(839,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(840,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(873,55): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(874,55): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(894,52): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(895,52): warning C4244: '=': conversion from 'const T' to 'sf::Int32', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(917,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(941,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(941,161): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(952,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1012,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1012,161): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1016,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1016,150): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1028,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1087,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1087,150): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1108,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1108,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1133,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1133,161): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1206,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1206,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1230,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\stryd\Desktop\Code to get\frigx\Final Project\Final Project\Final Project.cpp(1230,150): warning C4018: '>': signed/unsigned mismatch
+  HealthBars.cpp
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\stryd\Desktop\Code to get\frigx\Final Project\x64\Debug\Final Project.exe
